@@ -5,3 +5,5 @@ Data Science Libraries: Working with popular Python libraries like Pandas and Nu
 Practical Applications: Demonstrating the ability to perform tasks such as data analysis, visualization, and automation through hands-on projects using Jupyter Notebooks.
 Web Scraping and APIs: Collecting data from online sources using Python, APIs, and libraries like Beautiful Soup to scrape and manipulate real-world data.
 These projects reflect my growing proficiency in Python and my ability to apply this knowledge to solve data science challenges. The skills I have developed include Python programming, data analysis, data visualization, and web scraping—all of which are vital for roles in data science, data analysis, software development, and AI.
+
+The final main project is named Final Assignment
